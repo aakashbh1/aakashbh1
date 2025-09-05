@@ -1,99 +1,91 @@
-<h1 align="left">Hi 👋, I'm Aakash Bhargava</h1>
+<!-- Banner -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#0ea5e9">Aakash Bhargava</span></h1>
+<h3 align="center">⚡ Associate Platform Engineer | AI & Cloud Enthusiast | Problem Solver ⚡</h3>
 
-###
+<p align="center">
+  <a href="mailto:aakashbhargavaga@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/aakashbh1">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://aakashbhargava.com">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=globe&logoColor=white" /></a>
+</p>
 
-<p align="left">Programming Enthusiast | MERN Stack Developer | Crafting Innovative Solutions</p>
+---
 
-###
+## 🧑‍💻 About Me
+- 🌱 Currently building **AI Automations & Cloud-native microservices** at WonderLend Hubs  
+- 🧠 Passionate about **LLMs, RAG, Automations, and Serverless Architectures**  
+- 🚀 Love turning **complex problems → simple scalable solutions**  
+- 🎯 Goal: To craft products that **blend AI + Cloud + Usability** seamlessly  
 
-<h2 align="left">About me</h2>
+---
 
-###
+## ⚡ Tech Universe  
 
-<p align="left">💻Portfolio: https://aakashbhargava.vercel.app/<br>📫 Reach me: aakashbhargavaga@gmail.com</p>
+**💻 Languages & Databases**  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 
-###
+**☁️ Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?logo=gitlab&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
 
-<h2 align="left">LANGUAGE I CODE IN</h2>
+**⚙️ Frameworks & Tools**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?logo=chainlink&logoColor=white)  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+## 💼 Experience Highlights  
 
-###
+- 🏢 **WonderLend Hubs (2024–Present)** – Delivered **40+ features**, automated **5,000+ API calls daily**, fine-tuned LLMs for **AI ticket resolution**.  
+- 🛠️ **WonderLend Hubs (Intern)** – Built an **Agent Code Generator** handling **35,000+ codes/month**.  
+- 💡 **Celebal Technologies (Intern)** – Built **task management system** with advanced search, tagging, status mgmt.  
 
-<h2 align="left">MERN STACK DEVELOPER</h2>
+---
 
-###
+## 🚀 Featured Personal Projects  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+### 🎤 [Hiyerd – AI Interview Platform](https://github.com/)  
+> Simulating interviews with **real-time voice AI** + **analytics dashboard**.  
+- 🌐 70+ users tested  
+- 🗂️ PDF reports generated with resume insights, AI Integrated 
+- ⚙️ Built with **React, TypeScript, Firebase, Node.js, Express, Vercel**  
 
-###
+### 📚 [Learnify – EdTech Platform](https://github.com/)  
+> A **MERN stack** EdTech platform with role-based access.  
+- 👩‍🏫 Roles: Students, Educators, Admins  
+- 📈 Features: Courses, progress tracking, revenue dashboards  
+- ⚙️ MERN Stack
 
-<h2 align="left">FRONT END</h2>
+---
 
-###
+## 📊 GitHub Stats  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashbh1&show_icons=true&theme=radical" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashbh1&theme=radical" height="150"/>  
+</p>
 
-###
+---
 
-<h2 align="left">ONLINE PROFILES</h2>
+## 🎯 Fun Facts  
+- 🧩 I treat debugging like solving puzzles 🕵️‍♂️  
+- 🎶 Music fuels my flow state  
+- ☁️ Dreaming in **cloud-native architectures**  
+- ⚡ Motto: *“Build. Break. Automate. Scale.”*  
 
-###
+---
 
-
-<div align="left">
-  
-<a href="https://linkedin.com/in/aakashbh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashbh1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aakashbhargava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aakashbhargava" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imaakashbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imaakashbh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/imaakashbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imaakashbh" height="30" width="40" /></a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashbh1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aakashbh1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aakashbh1/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aakashbh1/aakashbh1/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">⭐️ “In the vast cosmos of code, every line is a star, and every project is a galaxy waiting to be explored."</p>
